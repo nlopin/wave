@@ -1,3 +1,4 @@
+export { SemanticColors } from './Colors/Colors';
 export { Colors } from './Colors/Colors';
 export { Elevation } from './Elevation/Elevation';
 export { Spaces } from './Spaces/Spaces';
